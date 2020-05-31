@@ -23,11 +23,6 @@ class App extends Component {
         title: 'Put the react.js app on Github',
         completed: false
       },
-      {
-        id: 4,
-        title: 'Go to the supermarket',
-        completed: false
-      },
     ]
   }
 
